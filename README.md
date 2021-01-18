@@ -1,6 +1,8 @@
 # SUSTech-2020Fall-CS303-AI
 
 > 11811721 庄湛
+>
+> Official Grade: 93
 
 
 
